@@ -17,6 +17,9 @@ This is a learning project.
 - Visitor cannot access Dashboard instead Redirect to Login
 - Visitor can access Register View
 
+- Encrypted Password
+- Personalised Dashboard
+
 Credit: AJAY YADAV : https://www.youtube.com/watch?v=4UpiQahIIpw&list=PLT51dtioU1pOCka0jIwYYaIGhPct3El_i&index=14
 
 
